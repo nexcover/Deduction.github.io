@@ -41,8 +41,8 @@ input {
 
 .section input {
     width: 13rem;
-    height: 3rem;
-    font-size: 40px;
+    height: 2rem;
+    font-size: 25px;
 }
 
 .section td {
@@ -95,5 +95,5 @@ table {
 }
 
 .button p {
-    font-size: 20px;
+    font-size: 18px;
 }
