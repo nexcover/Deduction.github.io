@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(215, 215, 215);
+}
+
+span {
+    font-size: 30px;
+}
+
+p {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.blank {
+    width: 1rem;
+    height: 20px;
+    /* background-color: green; */
+}
+
+input {
+    width: 5.5rem;
+    height: 20px;
+}
+
+.section {
+    width: 95%;
+    height: 9rem;
+    margin: auto;
+    margin-bottom: 1rem;
+    border-radius: 1.5rem;
+    padding-top: 1px;
+    background-color: rgb(255, 255, 255);
+}
+
+.section input {
+    width: 13rem;
+    height: 3rem;
+    font-size: 40px;
+}
+
+.section td {
+    position: relative;
+    top: -10px;
+}
+
+.section1,
+.section2,
+.section3 {
+    width: 95%;
+    height: 18rem;
+    margin: auto;
+    margin-bottom: 1rem;
+    border-radius: 1.5rem;
+    padding-top: 1px;
+    background-color: rgb(255, 255, 255);
+}
+
+table {
+    margin: auto;
+}
+
+.sec3td1 {
+    width: 1.5rem;
+    height: 1.5rem;
+    text-align: center;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: rgb(105, 175, 239);
+}
+
+.sec3td2 {
+    width: 21.4rem;
+}
+
+.credit,
+.check {
+    width: 16.2rem;
+    margin: auto;
+    ;
+    margin-top: 10px;
+}
+
+.button {
+    width: 5.4rem;
+    height: 2rem;
+    /* background-color: yellow; */
+    margin: auto;
+}
+
+.button p {
+    font-size: 20px;
+}
